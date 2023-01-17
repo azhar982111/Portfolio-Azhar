@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/azhar-hussain98211/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/azhar982111"
+        },
+        {
+            "network" : "email",
+            "href": "azhar982111@gmail.com"
+        }
+    ]
+}

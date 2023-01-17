@@ -1,0 +1,16 @@
+{
+    "education":[
+        {
+            "title": "January 2022 - February 2023",
+            "cardTitle": "Full stack web development",
+            "cardSubtitle":"Masai School",
+            "cardDetailedText" : "Banglore"
+        },
+        {
+            "title": "April 2012 - March 2015",
+            "cardTitle": "B.Com",
+            "cardSubtitle":"Bhawanipur Education Society (Calcutta University)",
+            "cardDetailedText" : "Kolkata"
+        }
+    ]
+}
