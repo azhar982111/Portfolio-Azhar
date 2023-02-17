@@ -33,6 +33,11 @@
             "title": "Resume",
             "href": "https://drive.google.com/file/d/1AWMseRfZJHJgJvMr0bmS65sydSwP4eu6/view?usp=share_link",
             "type": "link"
+        },
+        {
+            "title": "Contact",
+            "href": "mailto:azhar982111@gmail.com",
+            "type": "link"
         }
     ]
 
