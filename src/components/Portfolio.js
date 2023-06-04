@@ -31,7 +31,7 @@ const useStyles = makeStyles((theme) => ({
 const projects = [
   {
     name: "Timely clone",
-    description: `Created a responsive clone website of Timely.com. The user can see different policy and buy them. The site has a sign up/login page and add to car page.`,
+    description: `Created a responsive clone website of Timely.com. The user can track time, integrate their calendar. The app helps in enhancing productivity. site has a sign up/login page.`,
     image: "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_8b44eeefb881a1f431147b5fcba24122/timely-time-tracking.png",
     live: "https://timelyapp-clone.netlify.app/",
     url: "https://github.com/azhar982111/Timely-clone",
