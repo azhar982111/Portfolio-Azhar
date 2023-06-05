@@ -2,17 +2,15 @@
 
 A portfolio single page application using React and Material UI
 
-### Demo of this site available here [Material-UI-Portfolio Demo](https://materialui-portfolio.netlify.app/)
-
-Server will be available at http://127.0.0.1:3000 in your browser
+### Demo of this site available here https://azharhussain982111.netlify.app/portfolio
 
 
 
 ## Author
 
 <blockquote>
-Mahmudul alam
-Email: expelmahmud@gmail.com
+Azhar Hussain
+Email: azhar982111@gmail.com
 </blockquote>
 
 ========Thank You !!!=========
